@@ -22,9 +22,12 @@ The **Zepto vs Blinkit Sales Dashboard** enables users to explore, filter, and c
 
 ## Data Source
 
-- **Source Files:**  
-  -  `Zepto vs Blinkit For Power Bi.xlsx` – Contains sales, ratings, delivery times, and payment data for both Zepto and Blinkit.  
-  -  `Zepto VS Blinkit Dashboard.pbit` – Power BI dashboard/report file.
+- **Source Files:**
+  
+- [Zepto vs Blinkit For Power Bi.xlsx](./Zepto%20vs%20Blinkit%20For%20Power%20Bi.xlsx) – Contains sales, ratings, delivery times, and payment data for both Zepto and Blinkit.
+  
+- [Zepto VS Blinkit Dashboard.pbit](./Zepto%20VS%20Blinkit%20Dashboard.pbit) – Power BI dashboard/report file.
+
 
 The data covers monthly sales, order categories, payment modes, and user ratings across top Indian cities.
 
