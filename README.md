@@ -6,7 +6,7 @@ A visually interactive Power BI dashboard built to compare and analyze the sales
 
 ## Overview
 
-The **Zepto vs Blinkit Sales Dashboard** enables users to explore, filter, and compare sales, delivery time, and ratings across two major brands in the online grocery sector. Highlighting month-wise performance, category breakdowns, top cities, and payment modes, it supports a granular investigation into how each platform fares across diverse dimensions.
+The **Zepto vs Blinkit Sales Dashboard** enables users to explore, filter, and compare sales, delivery time, and ratings across two major brands in the online grocery sector. Highlighting month-wise performance, category breakdowns, top cities, and payment modes, this analysis enables a detailed examination of how each platform performs across various dimensions.
 
 ***
 
@@ -80,8 +80,8 @@ Deliver an interactive analytics tool that:
 ## How to Use or View the Dashboard
 
 1. **Download the Data & Dashboard Files:**
-   - [Zepto vs Blinkit For Power Bi.xlsx]
-   - [Zepto VS Blinkit Dashboard.pbit]
+   - [Zepto vs Blinkit For Power Bi.xlsx](./Zepto%20vs%20Blinkit%20For%20Power%20Bi.xlsx)
+   - [Zepto VS Blinkit Dashboard.pbit](./Zepto%20VS%20Blinkit%20Dashboard.pbit)
 
 2. **Open in Power BI Desktop:**
    - Import `.xlsx` using the `.pbit` template for interactive exploration.
@@ -94,7 +94,7 @@ _If you do not have Power BI Desktop, download it from the official Microsoft we
 
 ***
 
-## Screenshots
+## Screenshot
 
 _Dashboard Preview:_
 
