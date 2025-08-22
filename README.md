@@ -17,9 +17,7 @@ The **Zepto vs Blinkit Sales Dashboard** enables users to explore, filter, and c
 - 📝 **File Formats:**  
   -  `.pbit` (Power BI Template)  
   -  `.xlsx` (Source Data – Zepto vs Blinkit For Power BI)
-
-_Note: This dashboard does not utilize DAX or advanced data modeling._
-
+    
 ***
 
 ## Data Source
@@ -97,13 +95,14 @@ _If you do not have Power BI Desktop, download it from the official Microsoft we
 
 _Dashboard Preview:_
 
-[1]
+<img width="1310" height="735" alt="image" src="https://github.com/user-attachments/assets/902055b5-fe33-4be4-b9ad-287a4c2b8ce1" />
+
 
 ***
 
 ## Contact & Contributions
 
-- **Author:** [Your Name Here]
+- **Author:** Akshit Sukhija
 - Feel free to reach out for queries, suggestions, or collaboration!
 - Contributions, feedback, and feature requests are welcome—open an issue or submit a pull request.
 
